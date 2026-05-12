@@ -6,12 +6,6 @@ Nonlinear trajectory optimization for autonomous satellite docking using Sequent
 
 ---
 
-## Demo
-
-> 🎥 *[Insert simulation GIF or video here]*
-
----
-
 ## Overview
 
 The core challenge is to compute a dynamically feasible, collision-free trajectory for a satellite with nonlinear dynamics in real time, including online replanning when tracking error accumulates or the horizon runs out.
